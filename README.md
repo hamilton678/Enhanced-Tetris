@@ -3,7 +3,7 @@ A modern implementation of the classic Tetris game with endless gameplay and lev
 
 <img src="./samp-img.png" alt="Game Preview" width="400">
 
-Thank you for over 100k plays! 😁
+Thank you for over 300k plays! 😁
 
 ## 🎮 Features
 - Endless gameplay mode
